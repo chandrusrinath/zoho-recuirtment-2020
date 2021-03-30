@@ -1,0 +1,28 @@
+
+#include <stdio.h>
+
+int main()
+{
+ char male,Female;
+ char name;
+ printf("Enter the personal name");
+ scanf("%c",&name);
+  char Ram,Ramesh,Agilan,Elango,Revathy,Bavana,Yamini,Megala,Darshini;
+
+
+ male=(Ram,Ramesh,Agilan,Elango);
+ Female=Revathy,Bavana,Yamini,Megala,Darshini;
+ if(name==Ram,Ramesh,Agilan,Elango)
+ {
+     printf("\n Yamini");
+     printf("\n Megala");
+     printf("\n Bavana");
+   }
+  else
+{
+    printf("\n Ram");
+    printf("\n Agilan");
+
+}
+    return 0;
+}
